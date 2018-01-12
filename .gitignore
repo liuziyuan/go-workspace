@@ -1,0 +1,5 @@
+.vscode
+.gvm_local
+pkg
+src/demo1/vendor
+src/demo1/debug
